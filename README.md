@@ -5,6 +5,7 @@ Curiosity for learning, meditator adn Feynman tecnique practicioner .
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniloromero&layout=compact)
 
 ![Danilo's github stats](https://github-readme-stats.vercel.app/api?username=daniloromero&layout=compact&show_icons=true&theme=tokyonight)
+![Danilo's github stats](https://github-readme-stats.vercel.app/api?username=daniloromero&show_icons=true&theme=tokyonight)
 
 
 <!--
