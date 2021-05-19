@@ -1,9 +1,9 @@
 ### Hey there 👋
 I am Danilo a developer with knowledge of GIT, Python, C, Mysql, Flask, Jinja2, HTML5, CSS3, Javascript and React.
-Curiosity for learning, meditator adn Feynman tecnique practicioner . 
+Curiosity for learning, meditator and Feynman tecnique practicioner . 
 
-- 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning React 
+- 🔭 I’m currently following a data science learning path
+- 🌱 I’m currently learning Machine learning fundamentals
 - 💬 Ask me about how to switch from a job in finance to software development
 - 📫 How to reach me: 
 <!--
