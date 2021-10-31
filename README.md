@@ -19,7 +19,7 @@ Curiosity for learning, meditator and Feynman tecnique practicioner .
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniloromero&repo=AirBnB_clone_v3)](https://github.com/daniloromero/AirBnB_clone_v3)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniloromero&repo=holbertonschool-machine_learning)](https://github.com/daniloromero/holbertonschool-machine_learning)
 
 
 <!--
