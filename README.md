@@ -29,7 +29,8 @@ ___
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniloromero&repo=holbertonschool-machine_learning)](https://github.com/daniloromero/holbertonschool-machine_learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniloromero&repo=tempo_frontend)](https://github.com/daniloromero/tempo_frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daniloromero&repo=printf)](https://github.com/daniloromero/printf)
 
 
 <!--
